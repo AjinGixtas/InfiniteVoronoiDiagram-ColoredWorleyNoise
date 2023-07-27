@@ -4,6 +4,8 @@ I created this when trying to make a custom biome system for my game, perhap you
 Problem with the program:
  - The code is incredibly inefficient and slow, which mean you should really use this in small scale.
  - Although this program support Minkowski distance, it does not work and I have long given up on trying to fix it.
+ - If you know how to fix any of these issue, please do a pull request, it'll help me out a lot!
+ - I don't know how pull request work.
 
 How to use the program:
 * Step 0: Add ```script.cs``` to your project and rename it to however you want.
